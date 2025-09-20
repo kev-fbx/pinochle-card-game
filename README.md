@@ -15,7 +15,9 @@ Where I helped implement:
 - State machine and game phase managers
 - Player classes
 
-
+<p align="center">
+    <img src="doc/game.png" height="500" alt="game">
+</p>
 
 ## Implementation
 Many changes were made to the game system to address:
