@@ -4,7 +4,7 @@
 A video game application for the card game Pinochle. Built using Java and the AWT library.
 
 All game logic was initially contained in the game/Pinochle class. The goal was to refactor and extend with additional features,
-and maintaining extensibility.
+and maintaining extensibility alongside **unit testing**.
 
 What I wrote:
 - Meld package
