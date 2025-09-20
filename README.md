@@ -1,4 +1,4 @@
-# Pinochle Video Game: University Project
+# Pinochle Video Game: University Group Project
 
 ## Introduction
 A video game application for the card game Pinochle. Built using Java and the AWT library.
