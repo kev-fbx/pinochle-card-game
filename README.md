@@ -1,4 +1,5 @@
 # Pinochle Video Game: University Project
+(Copied from subject's GitHub organisation, so GH Actions will not work)
 A video game application for the card game Pinochle. Built using Java and the AWT library.
 
 All game logic was initially contained in the game/Pinochle class. The goal was to refactor and extend with additional features,
